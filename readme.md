@@ -65,3 +65,10 @@ unit-test-generator/
 ```
 
 ## Made with ❤️ and too much debugging
+
+## Demo
+
+
+https://github.com/user-attachments/assets/404a1573-6b6d-48e7-a7de-9e7c605aa3c2
+
+
