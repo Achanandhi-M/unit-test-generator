@@ -64,6 +64,4 @@ unit-test-generator/
 └── main.go         # Main application code
 ```
 
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+## Made with ❤️ and too much debugging
